@@ -1,2 +1,2 @@
 🧠 Data Science Project A complete data science project showcasing data collection, cleaning, exploration, visualization, and machine learning model building. Includes end-to-end analysis, insights, and predictions using 
-Python libraries like pandas, NumPy, matplotlib, seaborn, and scikit-learn.
+Python libraries like pandas, NumPy, matplotlib, seaborn, and scikit-learn.                                   
